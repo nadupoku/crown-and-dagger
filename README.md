@@ -1,2 +1,3 @@
 crown-and-dagger
 ================
+I am a Computer Programming Applications student @RyersonU. I'm into gaming, mediated reality, KMD, inclusive design, and adaptive and embodied learning. Crown and Dagger is an explanation of what makes me tick (so-called higher level abstract concepts and meta-theories that govern how and why we do what we do (symbolized by the crown), and the more concrete, tangible, and pragmatic tools or ideas that we use in the moment (the dagger)). It also happens to be a sort of play on two very different meanings of my first and last name. Nana means chief, leader, or king in twi (a dialect from Ghana), and Adu-Poku, as I have heard countless times throughout my life, sounds like "I do poke you".
